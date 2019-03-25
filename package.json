@@ -1,0 +1,11 @@
+{
+  "name": "Totally-220111Gaming-Not-a-bot",
+  "version": "Alpha-0.1",
+  "description": "General Replacement Bot",
+  "main": "bot.js",
+  "author": "220111Gaming",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
